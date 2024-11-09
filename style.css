@@ -39,3 +39,47 @@ body {
     margin-left: 20px;
     margin-bottom: 40px;
 }
+.left-list {
+    margin-bottom: 10px;
+}
+
+.link-list {
+    display: flex;
+    text-decoration: none;
+}
+
+.link-list:link {
+    color: black;
+}
+
+.link-list:visited {
+    color: black;
+}
+
+.left-list-dot {
+    height: 50px;
+    width: 10px;
+    background-color: black;
+}
+
+.left-list-icon {
+    width: 50px;
+    margin-bottom: -5px;
+}
+
+.left-list-text {
+    border-bottom-style: solid;
+    align-self: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+}
+
+.left-list-title {
+    font-size: 23px;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-color: white;
+}
