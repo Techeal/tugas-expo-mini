@@ -183,13 +183,13 @@ body {
     font-size: 23px;
     font-weight: bold;
     margin-top: 25px;
-    color: grey;
+    color: lightslategray;
 }
 .right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
-    border-color: grey;
+    border-color: lightslategray;
     font-weight: bold;
 }
 .right-value-text {
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: grey;
+    color: lightslategray;
 }
 .right-value-item {
     width: 300px;
@@ -216,7 +216,7 @@ body {
     text-align: -webkit-right;
 }
 .sosmed-content {
-    background-color: grey;
+    background-color: whitesmoke;
     text-align: left;
     font-size: 25px;
     font-weight: bold;
